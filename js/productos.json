@@ -10,14 +10,14 @@
         "precio": 1001
     },
     {
-        "id": "abrigo-02",
+        "id": "abrigo-LLERENA",
         "titulo": "Abrigo 02",
         "imagen": "./img/abrigos/02.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 1002
     },
     {
         "id": "abrigo-03",
